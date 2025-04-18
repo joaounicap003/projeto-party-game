@@ -1,5 +1,6 @@
 # projeto-party-game
 projeto para a cadeira de análise de projetos de software UNICAP*
+
 fazer um jogo para ajudar crianças a aprender lógica básica de programação
 
 Jira:
