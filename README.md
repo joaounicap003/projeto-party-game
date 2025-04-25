@@ -18,6 +18,7 @@ Ensinar lógica de programação de forma intuitiva e divertida, por meio de um 
 
 ✔️ Screencast: Apresentação do protótipo com narração explicando as funcionalidades e as histórias de usuário disponível no Jira.
 
+
 Jira:
 https://projetopartygame.atlassian.net/jira/software/projects/KAN/boards/1?classId=baea65b3-6cd7-41cc-9fa4-b81c6b2f5a27&assignmentId=b7c5a842-a789-4f96-853d-f22894b5b6bf&submissionId=5eac3849-9270-462e-1ec2-99d9ca687230
 
