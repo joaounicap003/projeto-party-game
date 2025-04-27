@@ -33,23 +33,26 @@ https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?no
 # 👤 Histórias de usuário 🗒️
 
 1. mover personagem pelo tabuleiro:
-   
+   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
+
 2. aumento de dificuldade conforme o jogo avança:
-   
+   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
+
 3. gastar pontos obtidos para conseguir vantagem:
-   
+   *
 4. eventos surpresa no tabuleiro:
-   
+   *
 5. explicar ao jogador a resposta correta do desafio realizado:
-    
+   *
 6. minigames que envolvam lógica de programação:
-    
+   *
 7. ganhar recompensas ao completar desafios:
-    
+   *
 8. inclusão de modo competitivo/cooperativo:
-    
+   *
 9. tutorial e objetivo nos minigames:
-    
+   *
 10. contagem de vidas restantes:
+   *
 
 ---
