@@ -43,16 +43,19 @@ https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?no
 4. eventos surpresa no tabuleiro:
    *
 5. explicar ao jogador a resposta correta do desafio realizado:
-   *
+   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
+
 6. minigames que envolvam lógica de programação:
-   *
+   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
+
 7. ganhar recompensas ao completar desafios:
    *
 8. inclusão de modo competitivo/cooperativo:
    *
 9. tutorial e objetivo nos minigames:
-   *
+   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
+
 10. contagem de vidas restantes:
-   *
+   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
 ---
