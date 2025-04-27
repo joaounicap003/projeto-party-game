@@ -67,6 +67,8 @@ https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?no
 # 🔗 Links Complementares do Projeto
 
 * Jira:
+  
+  disponível no modo de observação contendo detalhes do projeto:
 
 * Figma:
 ---
