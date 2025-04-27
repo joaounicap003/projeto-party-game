@@ -39,9 +39,11 @@ https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?no
    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
 3. gastar pontos obtidos para conseguir vantagem:
-   *
+   * (ainda não implementado no protótipo) ;
+     
 4. eventos surpresa no tabuleiro:
-   *
+   * (ainda não implementado no protótipo) ;
+     
 5. explicar ao jogador a resposta correta do desafio realizado:
    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
@@ -49,13 +51,15 @@ https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?no
    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
 7. ganhar recompensas ao completar desafios:
-   *
+   * (ainda não implementado no protótipo) ;
+     
 8. inclusão de modo competitivo/cooperativo:
-   *
+   * (ainda não implementado no protótipo) ;
+     
 9. tutorial e objetivo nos minigames:
    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
 10. contagem de vidas restantes:
-   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
+    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
 ---
