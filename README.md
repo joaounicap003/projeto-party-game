@@ -74,5 +74,6 @@ https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?no
 * Figma :
 
   disponível no modo de observação contendo o projeto interativo :
+  https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?node-id=0-1&t=91Km6nrAJCsCTYkB-1
   
 ---
