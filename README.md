@@ -10,7 +10,7 @@ Ensinar lógica de programação de forma intuitiva e divertida, por meio de um 
 
 ---
 
-# 🗃️ Como as entregas estão organizadas
+# 🗃️ Como as Entregas Estão Organizadas
 
 ✔️ Histórias de usuário: Disponíveis no Jira. São 10 histórias que acrescentam a a nossa ideia e que somam a ideia principal.
 
@@ -30,7 +30,7 @@ https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?no
 
 ---
 
-# 👤 Histórias de usuário 🗒️
+# 👤 Histórias de Usuário 🗒️
 
 1. mover personagem pelo tabuleiro:
    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
@@ -62,4 +62,11 @@ https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?no
 10. contagem de vidas restantes:
     * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
+---
+
+# 🔗 Links Complementares do Projeto
+
+* Jira:
+
+* Figma:
 ---
