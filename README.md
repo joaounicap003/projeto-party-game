@@ -12,63 +12,66 @@ Ensinar lógica de programação de forma intuitiva e divertida, por meio de um 
 
 # 🗃️ Como as Entregas Estão Organizadas
 
-✔️ Histórias de usuário: Disponíveis no Jira. São 10 histórias que acrescentam a a nossa ideia e que somam a ideia principal.
+✔️ Histórias de usuário : Disponíveis no Jira. São 10 histórias que acrescentam a a nossa ideia e que somam a ideia principal.
 
-✔️ Sketches e protótipos: Acessíveis via Figma, onde está disponível o protótipo interativo.
+✔️ Sketches e protótipos : Acessíveis via Figma, onde está disponível o protótipo interativo.
 
-✔️ Screencast: Apresentação do protótipo com narração explicando as funcionalidades e as histórias de usuário disponível no Jira.
+✔️ Screencast : Apresentação do protótipo com narração explicando as funcionalidades e as histórias de usuário disponível no Jira.
 
-🔗 Jira:
+🔗 Jira :
 
-* histórias de usuário e screencast:
+* histórias de usuário e screencast :
 https://projetopartygame.atlassian.net/jira/software/projects/KAN/boards/1?classId=baea65b3-6cd7-41cc-9fa4-b81c6b2f5a27&assignmentId=b7c5a842-a789-4f96-853d-f22894b5b6bf&submissionId=5eac3849-9270-462e-1ec2-99d9ca687230
 
-🔗 Figma:
+🔗 Figma :
 
-* sketches e protótipo:
+* sketches e protótipo :
 https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?node-id=0-1&t=91Km6nrAJCsCTYkB-1
 
 ---
 
 # 👤 Histórias de Usuário 🗒️
 
-1. mover personagem pelo tabuleiro:
+1. mover personagem pelo tabuleiro :
    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
-2. aumento de dificuldade conforme o jogo avança:
+2. aumento de dificuldade conforme o jogo avança :
    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
-3. gastar pontos obtidos para conseguir vantagem:
+3. gastar pontos obtidos para conseguir vantagem :
    * (ainda não implementado no protótipo) ;
      
-4. eventos surpresa no tabuleiro:
+4. eventos surpresa no tabuleiro :
    * (ainda não implementado no protótipo) ;
      
-5. explicar ao jogador a resposta correta do desafio realizado:
+5. explicar ao jogador a resposta correta do desafio realizado :
    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
-6. minigames que envolvam lógica de programação:
+6. minigames que envolvam lógica de programação :
    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
-7. ganhar recompensas ao completar desafios:
+7. ganhar recompensas ao completar desafios :
    * (ainda não implementado no protótipo) ;
      
-8. inclusão de modo competitivo/cooperativo:
+8. inclusão de modo competitivo/cooperativo :
    * (ainda não implementado no protótipo) ;
      
-9. tutorial e objetivo nos minigames:
+9. tutorial e objetivo nos minigames :
    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
-10. contagem de vidas restantes:
+10. contagem de vidas restantes :
     * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
 
 ---
 
 # 🔗 Links Complementares do Projeto
 
-* Jira:
+* Jira :
   
-  disponível no modo de observação contendo detalhes do projeto:
+  disponível no modo de observação contendo detalhes do projeto :
 
-* Figma:
+* Figma :
+
+  disponível no modo de observação contendo o projeto interativo :
+  
 ---
