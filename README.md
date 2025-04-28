@@ -29,9 +29,9 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   </ul>
 </div>
 
-- **Histórias de usuário:** Temos 10 histórias definidas e claras que guiaram a realização do jogo.
+- **Histórias de usuário:** Temos 10 histórias definidas e claras que guiaram a realização do jogo, essas histórias podem ser consultas na sessão abaixo de **Screencast**.
   
-- **Protótipo:** Protótipo lo-fi disponível no Figma para que possa ser utilizado de forma interativa.
+- **Protótipo:** Protótipo lo-fi disponível no [Figma](https://www.figma.com/proto/ltoc5FHOWKY3n7102PNz56/Protótipo-Party-Game?node-id=23-10&p=f&t=sLQ5IkCohvWAKww4-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A10&show-proto-sidebar=1) para que possa ser utilizado de forma interativa.
   
 - **Screencast:** Demonstração das funcionalidades do protótipo, disponível na seção abaixo.
 
@@ -45,7 +45,7 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   </ul>
 </div>
 
-**(Inserir link do vídeo, seja postado no youtube ou similar, para que os usuários tenham acesso ao mesmo.)**
+[LINK DO VÍDEO COMPLETO](https://www.youtube.com/watch?v=9R1_5C5We0E)
 
 ---
 
@@ -58,7 +58,7 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 </div>
 
 1. **Mover personagem pelo tabuleiro** ✔️
-   - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
+   - [(Timestamp 01:50 - 02:01)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=110s)
 
 2. **Aumento de dificuldade conforme o jogo avança**
    - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
@@ -70,10 +70,10 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
    - Ainda não implementado no protótipo
 
 5. **Explicar ao jogador a resposta correta do desafio realizado** ✔️
-   - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
+   - [(Timestamp 04:24 - 04:28)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=264s)
   
 6. **Minigames que envolvam lógica de programação** ✔️
-   - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
+   - [(Timestamp 02:37 - 03:00)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=157s)
   
 7. **Ganhar recompensas ao completar desafios**
    - Ainda não implementado no protótipo
@@ -82,10 +82,11 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
    - Ainda não implementado no protótipo
 
 9. **Tutorial e objetivo na UI dos minigames** ✔️
-   - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
+   - [(Timestamp 02:05 - 02:30)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=124s)
 
 10. **Contagem de vidas restantes** ✔️
-    - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
+    - [(Timestamp 01:50 - 01:55)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=110s)
+    - [(Timestamp 03:43 - 03:46)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=222s)
 ---
 
 <div id="toc">
@@ -97,9 +98,9 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 </div>
 
 **Jira:**
-  - Disponível no modo de observação contendo detalhes do projeto
-https://projetopartygame.atlassian.net/jira/software/projects/KAN/boards/1?classId=baea65b3-6cd7-41cc-9fa4-b81c6b2f5a27&assignmentId=b7c5a842-a789-4f96-853d-f22894b5b6bf&submissionId=5eac3849-9270-462e-1ec2-99d9ca687230
+  **Disponível no modo de observação contendo detalhes do projeto**
+  - [LINK DE ACESSO](https://projetopartygame.atlassian.net/jira/software/projects/KAN/boards/1?classId=baea65b3-6cd7-41cc-9fa4-b81c6b2f5a27&assignmentId=b7c5a842-a789-4f96-853d-f22894b5b6bf&submissionId=5eac3849-9270-462e-1ec2-99d9ca687230)
 
 **Figma:**
-  - Disponível no modo de observação contendo o projeto interativo
-https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?node-id=0-1&t=91Km6nrAJCsCTYkB-1
+  **Disponível no modo de observação contendo o projeto interativo**
+  - [LINK DE ACESSO](https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?node-id=0-1&t=91Km6nrAJCsCTYkB-1)
