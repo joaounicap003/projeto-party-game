@@ -29,11 +29,11 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   </ul>
 </div>
 
-- **Histórias de usuário:** Temos 10 histórias definidas e claras que guiaram a realização do jogo, essas histórias podem ser consultas na sessão abaixo de **Screencast**.
+- **Histórias de usuário:** Temos 10 histórias bem definidas e claras que guiaram a realização do jogo. Essas histórias podem ser consultadas na sessão abaixo de **Screencast**.
   
-- **Protótipo:** Protótipo lo-fi disponível no [Figma](https://www.figma.com/proto/ltoc5FHOWKY3n7102PNz56/Protótipo-Party-Game?node-id=23-10&p=f&t=sLQ5IkCohvWAKww4-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A10&show-proto-sidebar=1) para que possa ser utilizado de forma interativa.
+- **Protótipo:** Protótipo lo-fi disponível no [Figma](https://www.figma.com/proto/ltoc5FHOWKY3n7102PNz56/Protótipo-Party-Game?node-id=23-10&p=f&t=sLQ5IkCohvWAKww4-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A10&show-proto-sidebar=1) para que possa ser testado de forma interativa.
   
-- **Screencast:** Demonstração das funcionalidades do protótipo, disponível na seção abaixo.
+- **Screencast:** Demonstração das funcionalidades do protótipo, disponível na sessão abaixo.
 
 ---
 
