@@ -64,6 +64,11 @@ https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?no
 
 ---
 
+# 🎞️ Screencast
+
+* link screencast entrega 1:
+
+---
 # 🔗 Links Complementares do Projeto
 
 * Jira :
