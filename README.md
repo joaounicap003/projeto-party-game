@@ -59,6 +59,10 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 
 1. **Mover personagem pelo tabuleiro** ✔️
    - [(Timestamp 01:50 - 02:01)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=110s)
+   - **Diagrama de atividades:**
+     
+    ![KAN_1](https://github.com/user-attachments/assets/c05f9ced-41d6-42eb-af93-02d8d79913db)
+    
 
 2. **Aumento de dificuldade conforme o jogo avança**
    - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
@@ -74,6 +78,7 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   
 6. **Minigames que envolvam lógica de programação** ✔️
    - [(Timestamp 02:37 - 03:00)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=157s)
+   - **Diagrama de atividadess:**
   
 7. **Ganhar recompensas ao completar desafios**
    - Ainda não implementado no protótipo
@@ -83,10 +88,49 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 
 9. **Tutorial e objetivo na UI dos minigames** ✔️
    - [(Timestamp 02:05 - 02:30)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=124s)
+   - **Diagrama de atividades:**
+     ![diagramaHU6](https://github.com/user-attachments/assets/a73180a5-3583-40c0-85f4-da73bacd0e49)
+
 
 10. **Contagem de vidas restantes** ✔️
     - [(Timestamp 01:50 - 01:55)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=110s)
     - [(Timestamp 03:43 - 03:46)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=222s)
+    - **Diagrama de atividades:**
+      ![KAN_10](https://github.com/user-attachments/assets/09488d52-6d80-488e-ba3d-d3a4c6bc17c9)
+
+---
+
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> 🧪Implementação - </h1>
+    </summary>
+  </ul>
+</div>
+
+Primeiras funcionalidades implementadas:
+
+
+1º Disponibilidade de um tutorial, e um objetivo claro, no inicio do minigame.  
+
+2º Movimentação do personagem dentro do minigame.  
+
+3º Inclusão de inimigos no minigame.  
+
+4º Score no fim do minigame.    
+<br/>
+<br/>
+<br/>
+Programador responsável pelas implementações 1, 2, e 3 - **Diogo Fonseca**  
+<br/>
+<br/>
+<br/>
+[LINK DO TESTE DAS IMPLEMENTAÇÕES CITADAS ACIMA](https://www.youtube.com/watch?v=w4YssHwutDo)  
+<br/>
+<br/>
+(Incluir demais implementações, e programadores responsáveis, abaixo)  
+
+
 ---
 
 <div id="toc">
