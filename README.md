@@ -1,85 +1,150 @@
-# 🕹️ Party Game Educativo
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> 🎲Tabuleiro da computação💻</h1>
+    </summary>
+  </ul>
+</div>
+O Tabuleiro da computação busca ensinar a lógica de programação, em seu nível mais básico, para indivíduos que estão começando a desbravar essa grande área de conhecimento. O ponto principal desse jogo é proporcionar o aprendizado de uma forma que não fique muito cansativa e garanta que o jogador se divirta enquanto consegue aumentar seus conhecimentos acerca do tema.
 
-O Party Game Educativo é um jogo instrutivo que tem como objetivo ensinar lógica de programação a crianças, jovens e pessoas que nunca tiveram contato com programação. A proposta é ensinar de forma didática e simples, por meio de uma gameplay integrada à lógica de programação e aos seus princípios básicos, com desafios que utilizam esse conhecimento enquanto divertem os jogadores.
 
----
-
-# 🚩 Objetivo
-
-Ensinar lógica de programação de forma intuitiva e divertida, por meio de um jogo gratuito, desenvolvido para pessoas com pouca ou nenhuma experiência na área.
-
----
-
-# 🗃️ Como as Entregas Estão Organizadas
-
-✔️ Histórias de usuário : Disponíveis no Jira. São 10 histórias que acrescentam a a nossa ideia e que somam a ideia principal.
-
-✔️ Sketches e protótipos : Acessíveis via Figma, onde está disponível o protótipo interativo.
-
-✔️ Screencast : Apresentação do protótipo com narração explicando as funcionalidades e as histórias de usuário disponível no Jira.
-
-🔗 Jira :
-
-* histórias de usuário e screencast :
-https://projetopartygame.atlassian.net/jira/software/projects/KAN/boards/1?classId=baea65b3-6cd7-41cc-9fa4-b81c6b2f5a27&assignmentId=b7c5a842-a789-4f96-853d-f22894b5b6bf&submissionId=5eac3849-9270-462e-1ec2-99d9ca687230
-
-🔗 Figma :
-
-* sketches e protótipo :
-https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?node-id=0-1&t=91Km6nrAJCsCTYkB-1
 
 ---
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> 👇Nosso objetivo - </h1>
+    </summary>
+  </ul>
+</div>
 
-# 👤 Histórias de Usuário 🗒️
-
-1. mover personagem pelo tabuleiro :
-   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
-
-2. aumento de dificuldade conforme o jogo avança :
-   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
-
-3. gastar pontos obtidos para conseguir vantagem :
-   * (ainda não implementado no protótipo) ;
-     
-4. eventos surpresa no tabuleiro :
-   * (ainda não implementado no protótipo) ;
-     
-5. explicar ao jogador a resposta correta do desafio realizado :
-   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
-
-6. minigames que envolvam lógica de programação :
-   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
-
-7. ganhar recompensas ao completar desafios :
-   * (ainda não implementado no protótipo) ;
-     
-8. inclusão de modo competitivo/cooperativo :
-   * (ainda não implementado no protótipo) ;
-     
-9. tutorial e objetivo nos minigames :
-   * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
-
-10. contagem de vidas restantes :
-    * (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma) ;
+Familiarizar o jogador com a lógica de programação de forma intuitiva e divertida, mesclando o momento de aprendizado com o lazer proporcionado pelos jogos e oferecendo o melhor dos dois mundos.
 
 ---
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> Como o projeto está organizado ❓ - </h1>
+    </summary>
+  </ul>
+</div>
 
-# 🎞️ Screencast
-
-* link screencast entrega 1:
-  https://www.youtube.com/watch?v=9R1_5C5We0E
-
----
-# 🔗 Links Complementares do Projeto
-
-* Jira :
+- **Histórias de usuário:** Temos 10 histórias bem definidas e claras que guiaram a realização do jogo. Essas histórias podem ser consultadas na sessão abaixo de **Screencast**.
   
-  disponível no modo de observação contendo detalhes do projeto :
-  https://projetopartygame.atlassian.net/jira/software/projects/KAN/boards/1?classId=baea65b3-6cd7-41cc-9fa4-b81c6b2f5a27&assignmentId=b7c5a842-a789-4f96-853d-f22894b5b6bf&submissionId=5eac3849-9270-462e-1ec2-99d9ca687230
-
-* Figma :
-
-  disponível no modo de observação contendo o projeto interativo :
-  https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?node-id=0-1&t=91Km6nrAJCsCTYkB-1
+- **Protótipo:** Protótipo lo-fi disponível no [Figma](https://www.figma.com/proto/ltoc5FHOWKY3n7102PNz56/Protótipo-Party-Game?node-id=23-10&p=f&t=sLQ5IkCohvWAKww4-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A10&show-proto-sidebar=1) para que possa ser testado de forma interativa.
   
+- **Screencast:** Demonstração das funcionalidades do protótipo, disponível na sessão abaixo.
+
 ---
+
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> 🎞️ Screencast -</h1>
+    </summary>
+  </ul>
+</div>
+
+[LINK DO VÍDEO COMPLETO](https://www.youtube.com/watch?v=9R1_5C5We0E)
+
+---
+
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> 👤Histórias de usuário🗒️ - </h1>
+    </summary>
+  </ul>
+</div>
+
+1. **Mover personagem pelo tabuleiro** ✔️
+   - [(Timestamp 01:50 - 02:01)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=110s)
+   - **Diagrama de atividades:**
+     
+    ![KAN_1](https://github.com/user-attachments/assets/c05f9ced-41d6-42eb-af93-02d8d79913db)
+    
+
+2. **Aumento de dificuldade conforme o jogo avança**
+   - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
+  
+3. **Gastar pontos obtidos para conseguir vantagems**
+   - Ainda não implementado no protótipo
+
+4. **Eventos surpresa no tabuleiro**
+   - Ainda não implementado no protótipo
+
+5. **Explicar ao jogador a resposta correta do desafio realizado** ✔️
+   - [(Timestamp 04:24 - 04:28)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=264s)
+  
+6. **Minigames que envolvam lógica de programação** ✔️
+   - [(Timestamp 02:37 - 03:00)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=157s)
+   - **Diagrama de atividadess:**
+  
+7. **Ganhar recompensas ao completar desafios**
+   - Ainda não implementado no protótipo
+  
+8. **Inclusão de modo competitivo/cooperativo**
+   - Ainda não implementado no protótipo
+
+9. **Tutorial e objetivo na UI dos minigames** ✔️
+   - [(Timestamp 02:05 - 02:30)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=124s)
+   - **Diagrama de atividades:**
+     ![diagramaHU6](https://github.com/user-attachments/assets/a73180a5-3583-40c0-85f4-da73bacd0e49)
+
+
+10. **Contagem de vidas restantes** ✔️
+    - [(Timestamp 01:50 - 01:55)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=110s)
+    - [(Timestamp 03:43 - 03:46)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=222s)
+    - **Diagrama de atividades:**
+      ![KAN_10](https://github.com/user-attachments/assets/09488d52-6d80-488e-ba3d-d3a4c6bc17c9)
+
+---
+
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> 🧪Implementação - </h1>
+    </summary>
+  </ul>
+</div>
+
+Primeiras funcionalidades implementadas:
+
+
+1º Disponibilidade de um tutorial, e um objetivo claro, no inicio do minigame.  
+
+2º Movimentação do personagem dentro do minigame.  
+
+3º Inclusão de inimigos no minigame.  
+
+4º Score no fim do minigame.    
+<br/>
+<br/>
+<br/>
+Programador responsável pelas implementações 1, 2, e 3 - **Diogo Fonseca**  
+<br/>
+<br/>
+<br/>
+[LINK DO TESTE DAS IMPLEMENTAÇÕES CITADAS ACIMA](https://www.youtube.com/watch?v=w4YssHwutDo)  
+<br/>
+<br/>
+(Incluir demais implementações, e programadores responsáveis, abaixo)  
+
+
+---
+
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> 🔗Links complementares do projeto - </h1>
+    </summary>
+  </ul>
+</div>
+
+**Jira:**
+  **Disponível no modo de observação contendo detalhes do projeto**
+  - [LINK DE ACESSO](https://projetopartygame.atlassian.net/jira/software/projects/KAN/boards/1?classId=baea65b3-6cd7-41cc-9fa4-b81c6b2f5a27&assignmentId=b7c5a842-a789-4f96-853d-f22894b5b6bf&submissionId=5eac3849-9270-462e-1ec2-99d9ca687230)
+
+**Figma:**
+  **Disponível no modo de observação contendo o projeto interativo**
+  - [LINK DE ACESSO](https://www.figma.com/design/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?node-id=0-1&t=91Km6nrAJCsCTYkB-1)
