@@ -122,6 +122,7 @@ Primeiras funcionalidades implementadas:
 <br/>
 <br/>
 [LINK DA VERSÃO DE TESTE COM AS FUNCIONALIDADES IMPLEMENTADAS](https://drive.google.com/uc?export=download&id=1DFOwL6jxneamr5C0Z0V4JZhSfhFzFDGN)
+**(Ao baixar o arquivo zip da versão de testes, por favor utilize a opção de extrair o arquivo para ter acessso ao arquivo ".exe", iniciando o mesmo como administrador)**
 <br/>
 <br/>
 <br/>
