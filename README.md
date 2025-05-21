@@ -57,7 +57,7 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   </ul>
 </div>
 
-1. **Mover personagem pelo tabuleiro** ✔️
+1. **Mover personagem pelo mapa** ✔️
    - [(Timestamp 01:50 - 02:01)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=110s)
    - **Diagrama de atividades:**
      
@@ -67,7 +67,7 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 2. **Aumento de dificuldade conforme o jogo avança**
    - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
   
-3. **Gastar pontos obtidos para conseguir vantagems**
+3. **Gastar pontos obtidos para conseguir vantagens**
    - Ainda não implementado no protótipo
 
 4. **Eventos surpresa no tabuleiro**
