@@ -7,6 +7,17 @@
 </div>
 O Tabuleiro da computação busca ensinar a lógica de programação, em seu nível mais básico, para indivíduos que estão começando a desbravar essa grande área de conhecimento. O ponto principal desse jogo é proporcionar o aprendizado de uma forma que não fique muito cansativa e garanta que o jogador se divirta enquanto consegue aumentar seus conhecimentos acerca do tema.
 
+---
+
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> 🌐 ODS relacionada - </h1>
+    </summary>
+  </ul>
+</div>
+
+![ODS 4](https://github.com/user-attachments/assets/5517201a-3482-4ac0-8d07-417733f5209a)
 
 
 ---
