@@ -1,11 +1,11 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h1> 🎲Tabuleiro da computação💻</h1>
+      <h1> 🎲Plataformas da computação💻</h1>
     </summary>
   </ul>
 </div>
-O Tabuleiro da computação busca ensinar a lógica de programação, em seu nível mais básico, para indivíduos que estão começando a desbravar essa grande área de conhecimento. O ponto principal desse jogo é proporcionar o aprendizado de uma forma que não fique muito cansativa e garanta que o jogador se divirta enquanto consegue aumentar seus conhecimentos acerca do tema.
+O Plataformas da computação busca ensinar a lógica de programação, em seu nível mais básico, para indivíduos que estão começando a desbravar essa grande área de conhecimento. O ponto principal desse jogo é proporcionar o aprendizado de uma forma que não fique muito cansativa e garanta que o jogador se divirta enquanto consegue aumentar seus conhecimentos acerca do tema.
 
 ---
 
@@ -16,8 +16,8 @@ O Tabuleiro da computação busca ensinar a lógica de programação, em seu ní
     </summary>
   </ul>
 </div>
+<img src="https://github.com/user-attachments/assets/5517201a-3482-4ac0-8d07-417733f5209a" width="400">
 
-![ODS 4](https://github.com/user-attachments/assets/5517201a-3482-4ac0-8d07-417733f5209a)
 
 
 ---
@@ -71,44 +71,48 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 1. **Mover personagem pelo mapa** ✔️
    - [(Timestamp 01:50 - 02:01)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=110s)
    - **Diagrama de atividades:**
-     
-    ![KAN_1](https://github.com/user-attachments/assets/c05f9ced-41d6-42eb-af93-02d8d79913db)
+
+    <img src="https://github.com/user-attachments/assets/c05f9ced-41d6-42eb-af93-02d8d79913db" width="400">
+    
     
 
-2. **Aumento de dificuldade conforme o jogo avança**
+1. **Aumento de dificuldade conforme o jogo avança**
    - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
   
-3. **Gastar pontos obtidos para conseguir vantagens**
+2. **Gastar pontos obtidos para conseguir vantagens**
    - Ainda não implementado no protótipo
 
-4. **Eventos surpresa no tabuleiro**
+3. **Eventos surpresa no tabuleiro**
    - Ainda não implementado no protótipo
 
-5. **Explicar ao jogador a resposta correta do desafio realizado** ✔️
+4. **Explicar ao jogador a resposta correta do desafio realizado** ✔️
    - [(Timestamp 04:24 - 04:28)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=264s)
   
-6. **Minigames que envolvam lógica de programação** ✔️
+5. **Minigames que envolvam lógica de programação** ✔️
    - [(Timestamp 02:37 - 03:00)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=157s)
    - **Diagrama de atividadess:**
   
-7. **Ganhar recompensas ao completar desafios**
+6. **Ganhar recompensas ao completar desafios**
    - Ainda não implementado no protótipo
   
-8. **Inclusão de modo competitivo/cooperativo**
+7. **Inclusão de modo competitivo/cooperativo**
    - Ainda não implementado no protótipo
 
-9. **Tutorial e objetivo na UI dos minigames** ✔️
+8. **Tutorial e objetivo na UI dos minigames** ✔️
    - [(Timestamp 02:05 - 02:30)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=124s)
    - **Diagrama de atividades:**
-     ![diagramaHU6](https://github.com/user-attachments/assets/a73180a5-3583-40c0-85f4-da73bacd0e49)
+     
+     <img src="https://github.com/user-attachments/assets/a73180a5-3583-40c0-85f4-da73bacd0e49" width="400">
+     
 
 
-10. **Contagem de vidas restantes** ✔️
+9. **Contagem de vidas restantes** ✔️
     - [(Timestamp 01:50 - 01:55)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=110s)
     - [(Timestamp 03:43 - 03:46)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=222s)
     - **Diagrama de atividades:**
-      ![KAN_10](https://github.com/user-attachments/assets/09488d52-6d80-488e-ba3d-d3a4c6bc17c9)
-
+  
+      <img src="https://github.com/user-attachments/assets/09488d52-6d80-488e-ba3d-d3a4c6bc17c9" width="400">
+      
 ---
 
 <div id="toc">
@@ -122,13 +126,13 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 Primeiras funcionalidades implementadas:
 
 
-1º Disponibilidade de um tutorial, e um objetivo claro, no inicio do minigame.  
+1º Disponibilidade de um tutorial, e objetivo, no inicio do jogo.  
 
 2º Movimentação do personagem dentro do minigame.  
 
 3º Inclusão de inimigos no minigame.  
 
-4º Score no fim do minigame.    
+4º Score no fim do jogo.
 <br/>
 <br/>
 <br/>
