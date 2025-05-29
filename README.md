@@ -76,29 +76,29 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
     
     
 
-1. **Aumento de dificuldade conforme o jogo avança**
+2. **Aumento de dificuldade conforme o jogo avança**
    - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
   
-2. **Gastar pontos obtidos para conseguir vantagens**
+3. **Gastar pontos obtidos para conseguir vantagens**
    - Ainda não implementado no protótipo
 
-3. **Eventos surpresa no tabuleiro**
+4. **Eventos surpresa no tabuleiro**
    - Ainda não implementado no protótipo
 
-4. **Explicar ao jogador a resposta correta do desafio realizado** ✔️
+5. **Explicar ao jogador a resposta correta do desafio realizado** ✔️
    - [(Timestamp 04:24 - 04:28)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=264s)
   
-5. **Minigames que envolvam lógica de programação** ✔️
+6. **Minigames que envolvam lógica de programação** ✔️
    - [(Timestamp 02:37 - 03:00)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=157s)
    - **Diagrama de atividadess:**
   
-6. **Ganhar recompensas ao completar desafios**
+7. **Ganhar recompensas ao completar desafios**
    - Ainda não implementado no protótipo
   
-7. **Inclusão de modo competitivo/cooperativo**
+8. **Inclusão de modo competitivo/cooperativo**
    - Ainda não implementado no protótipo
 
-8. **Tutorial e objetivo na UI dos minigames** ✔️
+9. **Tutorial e objetivo na UI dos minigames** ✔️
    - [(Timestamp 02:05 - 02:30)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=124s)
    - **Diagrama de atividades:**
      
@@ -106,7 +106,7 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
      
 
 
-9. **Contagem de vidas restantes** ✔️
+10. **Contagem de vidas restantes** ✔️
     - [(Timestamp 01:50 - 01:55)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=110s)
     - [(Timestamp 03:43 - 03:46)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=222s)
     - **Diagrama de atividades:**
