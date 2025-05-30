@@ -173,22 +173,35 @@ Um dos programadores (Diogo) tratou de implementar as alterações necessárias 
     </summary>
   </ul>
 </div>
+1 - **Personagem não estava colidindo com os outros objetos do mapa**: Esse erro ocasionava na queda do personagem, impedindo que o jogador conseguisse fazer qualquer ação no jogo.
+
 <br/>
 <br/>
 
-1 -  **Personagem não estava colidindo com os outros objetos do mapa:** Esse erro ocasionava na queda do personagem, impedindo que o jogador conseguisse fazer qualquer ação no jogo
-**Solucionado durante a primeira fase de testes** ☑️
+**Solucionado durante a primeira fase de testes por meio da edição da "cena" do personagem com a sua área de colisão, fazendo com que a área de colisão do personagem fosse capaz de interagir com os demais objetos presentos no mapa.** ☑️
+
 <br/>
 <br/>
 
-2 - **Ao cair das plataformas, o personagem não respawnava:** 
-Esse erro impedia o jogador de recomeçar o jogo sem precisar fechar o programa, uma vez que nunca acontecia nada enquanto o personagem vagava pelo vazio.
-**Solucionado durante a primeria fase de testes através da inclusão de um limite no mapa que, ao entrar em contato com o personagem, fará com que o mesmo seja enviado novamente ao começo do mapa.**
+2 - **Personagem não respawnava ao cair da plataforma**: Esse erro impedia o jogador de recomeçar o jogo sem precisar fechar o programa, uma vez que nunca acontecia nada enquanto o personagem vagava pelo vazio.
+
+<br/>
+
+**Solucionado durante a primeria fase de testes através da inclusão de um limite no mapa que, ao entrar em contato com o personagem, fará com que o mesmo seja enviado novamente ao começo do mapa.** ☑️
+
 <br/>
 <br/>
+
+3 - **Sprite do personagem não mudava de lado conforme a direção em que o jogador estava se dirigindo**: O sprite do personagem estava estático, sempre olhando para o mesmo lado. Isso fazia com que o mesmo começasse a andar de costas quando o jogador resolvesse se mover para a esquerda.
+
 <br/>
+
+**Solucionado durante a primeira fase de testes por meio de alterações no sprite que fizeram com que o personagem trocasse o seu sprite para uma outra posição baseado nos comandos do controle de movimentos (andar para esquerda = sprite virado para a esquerda, andar para a direita = sprite virado para a direita)**. ☑️
+
 <br/>
+
 ---
+
 <div id="toc">
   <ul style="list-style: none">
     <summary>
