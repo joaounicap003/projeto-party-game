@@ -143,12 +143,52 @@ Primeiras funcionalidades implementadas:
 <br/>
 [LINK DO TESTE DAS IMPLEMENTAÇÕES CITADAS ACIMA](https://www.youtube.com/watch?v=w4YssHwutDo)  
 <br/>
+<br/>  
 <br/>
-(Incluir demais implementações, e programadores responsáveis, abaixo)  
+
+**Programação em pares durante essa implementação -**
+
+<br/>
+<br/>
+O print abaixo mostra a colaboração dos programadores (Diogo Fonseca e João Estevam) criando o script que determina o comportamento da cena* do personagem, permitindo com que o mesmo possa se mover no mapa e interagir com os outros elementos.
+Um dos programadores (Diogo) tratou de implementar as alterações necessárias para conseguir implementar o resultado desejado. Já o outro programador (João Estevam) tratou de realizar pesquisas sobre como resolver os problemas encontrados, como os problemas na falta de colisão do personagem e da mudança de direção do sprite, permitindo com que o trabalho fosse feito de uma forma muito mais rápida e eficiente.
+<br/>
+<br/>
+<img src="https://github.com/user-attachments/assets/d6e7ab17-f9cc-4d23-a5b1-a1b0e8ffe91b" width="400">
+<br/>
+<br/>
+<br/>
+(Incluir demais implementações, e programadores responsáveis, abaixo) 
+<br/>
+<br/>
+
 
 
 ---
 
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> 🐛 Bug Tracker ☣️ - </h1>
+    </summary>
+  </ul>
+</div>
+<br/>
+<br/>
+
+1 -  **Personagem não estava colidindo com os outros objetos do mapa:** Esse erro ocasionava na queda do personagem, impedindo que o jogador conseguisse fazer qualquer ação no jogo
+**Solucionado durante a primeira fase de testes** ☑️
+<br/>
+<br/>
+
+2 - **Ao cair das plataformas, o personagem não respawnava:** 
+Esse erro impedia o jogador de recomeçar o jogo sem precisar fechar o programa, uma vez que nunca acontecia nada enquanto o personagem vagava pelo vazio.
+**Solucionado durante a primeria fase de testes através da inclusão de um limite no mapa que, ao entrar em contato com o personagem, fará com que o mesmo seja enviado novamente ao começo do mapa.**
+<br/>
+<br/>
+<br/>
+<br/>
+---
 <div id="toc">
   <ul style="list-style: none">
     <summary>
