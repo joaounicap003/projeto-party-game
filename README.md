@@ -198,9 +198,13 @@ Um dos programadores (Diogo) tratou de implementar as alterações necessárias 
 
 **Solucionado durante a primeira fase de testes por meio de alterações no sprite que fizeram com que o personagem trocasse o seu sprite para uma outra posição baseado nos comandos do controle de movimentos (andar para esquerda = sprite virado para a esquerda, andar para a direita = sprite virado para a direita)**. ☑️
 
-<br/>
 
----
+4 - **4 - Animação do personagem travando após colisões consecutivas:  Foi identificado que, em algumas situações, ao colidir repetidamente com certos objetos, o personagem travava sua animação e parava de responder aos comandos de movimento.
+
+<br/>
+<br/>
+ **Solucionado durante a primeira fase de testes com a inclusão de um sistema de checagem constante do número de vidas. Quando o contador chega a zero, o jogo agora exibe uma tela de fim de jogo e oferece a opção de reiniciar a partida ou voltar ao menu inicial. ☑️
+
 
 <div id="toc">
   <ul style="list-style: none">
