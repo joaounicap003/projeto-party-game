@@ -80,7 +80,7 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
    - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
    - **Diagrama de atividades:**
   
-     <img src="https://github.com/user-attachments/assets/97702d94-b6f5-4d39-a9cf-69793ba6f94e" width="400">
+   <img src="https://github.com/user-attachments/assets/97702d94-b6f5-4d39-a9cf-69793ba6f94e" width="400">
 
   
 3. **Gastar pontos obtidos para conseguir vantagens**
