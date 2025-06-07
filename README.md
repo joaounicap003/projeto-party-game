@@ -208,7 +208,6 @@ Um dos programadores (Diogo) tratou de implementar as alterações necessárias 
 
 
 4 - **4 - Animação do personagem travando após colisões consecutivas:  Foi identificado que, em algumas situações, ao colidir repetidamente com certos objetos, o personagem travava sua animação e parava de responder aos comandos de movimento.
-
 <br/>
 <br/>
 **Durante a segunda fase de testes, foi revisado o sistema de controle de animação, adicionando verificações de estado do personagem para garantir que a animação pudesse ser reiniciada corretamente após colisões. Foram também adicionados logs de debug para facilitar o rastreamento de falhas semelhantes no futuro. ☑️
