@@ -102,6 +102,9 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 8. **Tenha diferentes tipos de inimigos no jogo**
    - Ainda não implementado no protótipo
    - **Diagrama de atividades:**
+  
+     <img src="https://github.com/user-attachments/assets/f2305b53-b14f-42e1-981d-7843684caad8" width="400"> 
+
 
 9. **Tutorial e objetivo na UI dos minigames** ✔️
    - [(Timestamp 02:05 - 02:30)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=124s)
