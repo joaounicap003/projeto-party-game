@@ -211,6 +211,8 @@ Um dos programadores (Diogo) tratou de implementar as alterações necessárias 
 
 <br/>
 <br/>
+**Durante a segunda fase de testes, foi revisado o sistema de controle de animação, adicionando verificações de estado do personagem para garantir que a animação pudesse ser reiniciada corretamente após colisões. Foram também adicionados logs de debug para facilitar o rastreamento de falhas semelhantes no futuro. ☑️
+
 
 5 - **5 - Vida do jogador não diminuía após ele ser atacado por um inimigo: Foi identificado que, a vida do jogador não diminuía após ele ser atacado por um inimigo.
 
