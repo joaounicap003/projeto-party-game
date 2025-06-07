@@ -95,7 +95,7 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 7. **Ganhar recompensas ao completar desafios**
    - Ainda não implementado no protótipo
   
-8. **Inclusão de modo competitivo/cooperativo**
+8. **Tenha diferentes tipos de inimigos no jogo**
    - Ainda não implementado no protótipo
 
 9. **Tutorial e objetivo na UI dos minigames** ✔️
