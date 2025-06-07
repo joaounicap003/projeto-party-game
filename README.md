@@ -211,6 +211,11 @@ Um dos programadores (Diogo) tratou de implementar as alterações necessárias 
 
 <br/>
 <br/>
+
+5 - **5 - Vida do jogador não diminuía após ele ser atacado por um inimigo: Foi identificado que, a vida do jogador não diminuía após ele ser atacado por um inimigo.
+
+<br/>
+<br/>
  **Solucionado durante a primeira fase de testes com a inclusão de um sistema de checagem constante do número de vidas. Quando o contador chega a zero, o jogo agora exibe uma tela de fim de jogo e oferece a opção de reiniciar a partida ou voltar ao menu inicial. ☑️
 
 
