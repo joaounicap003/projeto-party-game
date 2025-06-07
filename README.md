@@ -78,6 +78,7 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 
 2. **Aumento de dificuldade conforme o jogo avança**
    - (anexar timestamp de vídeo que demonstra a história de usuário no protótipo do figma)
+   - **Diagrama de atividades:**
   
 3. **Gastar pontos obtidos para conseguir vantagens**
    - Ainda não implementado no protótipo
@@ -97,6 +98,7 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   
 8. **Tenha diferentes tipos de inimigos no jogo**
    - Ainda não implementado no protótipo
+   - **Diagrama de atividades:**
 
 9. **Tutorial e objetivo na UI dos minigames** ✔️
    - [(Timestamp 02:05 - 02:30)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=124s)
