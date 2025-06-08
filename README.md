@@ -91,6 +91,10 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 
 5. **Explicar ao jogador a resposta correta do desafio realizado** ✔️
    - [(Timestamp 04:24 - 04:28)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=264s)
+   - **Diagrama de atividades:**
+     
+     <img src="https://github.com/user-attachments/assets/b71523e2-d1fc-4e4a-9d9f-9d5b9030a69f" width="400">
+
   
 6. **Minigames que envolvam lógica de programação** ✔️
    - [(Timestamp 02:37 - 03:00)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=157s)
