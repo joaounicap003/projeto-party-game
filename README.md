@@ -98,6 +98,10 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   
 7. **Ganhar recompensas ao completar desafios**
    - Ainda não implementado no protótipo
+   - **Diagrama de atividades:**
+     
+     <img src="https://github.com/user-attachments/assets/e14f1a6d-6ef0-44e3-be4c-9a0cafffa24c" width="400"> 
+
   
 8. **Tenha diferentes tipos de inimigos no jogo**
    - Ainda não implementado no protótipo
