@@ -99,6 +99,9 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 6. **Minigames que envolvam lógica de programação** ✔️
    - [(Timestamp 02:37 - 03:00)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=157s)
    - **Diagrama de atividadess:**
+
+     <img src="https://github.com/user-attachments/assets/e4830caa-735f-47c0-90c1-c41493d29d68" width="400">
+
   
 7. **Ganhar recompensas ao completar desafios**
    - Ainda não implementado no protótipo
