@@ -192,6 +192,7 @@ Um dos programadores (Diogo) tratou de implementar as alterações necessárias 
     </summary>
   </ul>
 </div>
+
 1 - **Personagem não estava colidindo com os outros objetos do mapa**: Esse erro ocasionava na queda do personagem, impedindo que o jogador conseguisse fazer qualquer ação no jogo.
 
 <br/>
@@ -217,19 +218,25 @@ Um dos programadores (Diogo) tratou de implementar as alterações necessárias 
 
 **Solucionado durante a primeira fase de testes por meio de alterações no sprite que fizeram com que o personagem trocasse o seu sprite para uma outra posição baseado nos comandos do controle de movimentos (andar para esquerda = sprite virado para a esquerda, andar para a direita = sprite virado para a direita)**. ☑️
 
-
-4 - **4 - Animação do personagem travando após colisões consecutivas:  Foi identificado que, em algumas situações, ao colidir repetidamente com certos objetos, o personagem travava sua animação e parava de responder aos comandos de movimento.
 <br/>
 <br/>
-**Solucionado durante a segunda fase de testes com a revisão do sistema de controle de animação, incluindo verificações do estado do personagem para garantir o reinício correto da animação após colisões consecutivas. Também foram adicionados logs de debug para auxiliar na identificação de falhas semelhantes futuramente. ☑️
 
+**4 - Animação do personagem travando após colisões consecutivas:**  Foi identificado que, em algumas situações, ao colidir repetidamente com certos objetos, o personagem travava sua animação e parava de responder aos comandos de movimento.
 
-5 - **5 - Vida do jogador não diminuía após ele ser atacado por um inimigo: Foi identificado que, a vida do jogador não diminuía após ele ser atacado por um inimigo.
+<br/>
+
+**Solucionado durante a segunda fase de testes com a revisão do sistema de controle de animação, incluindo verificações do estado do personagem para garantir o reinício correto da animação após colisões consecutivas. Também foram adicionados logs de debug para auxiliar na identificação de falhas semelhantes futuramente.** ☑️
+
+<br/>
+
+**5 - Vida do jogador não diminuía após ele ser atacado por um inimigo:** Foi identificado que a vida do jogador não diminuía após ele ser atacado por um inimigo.
 
 <br/>
 <br/>
- **Solucionado durante a primeira fase de testes com a inclusão de um sistema de checagem constante do número de vidas. Quando o contador chega a zero, o jogo agora exibe uma tela de fim de jogo e oferece a opção de reiniciar a partida ou voltar ao menu inicial. ☑️
 
+ **Solucionado durante a segunda fase de testes com a inclusão de um sistema de checagem constante do número de vidas. Quando o contador chega a zero, o jogo agora exibe uma tela de fim de jogo e oferece a opção de reiniciar a partida ou voltar ao menu inicial.** ☑️
+
+<br/>
 
 <div id="toc">
   <ul style="list-style: none">
