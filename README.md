@@ -238,13 +238,12 @@ Um dos programadores (Diogo) tratou de implementar as alterações necessárias 
 
 <br/>
 
-1º  O jogo agora conta com um outro tipo de slime nas plataformas.
 
-2º Quanto mais próximo do fim do mapa, maiores serão as dificuldades enfrentadas pelo jogador, seja quanto ao número de inimigos ou aumento de plataformas móveis.
+1º Quanto mais próximo do fim do mapa, maiores serão as dificuldades enfrentadas pelo jogador, seja quanto ao número de inimigos ou aumento de plataformas móveis.
 
-3º Melhorias gerais no mapa.
+2º Correção de bugs.
 
-4º Score do jogo agora se encontra no fim do mapa.
+3º Score do jogo é atualizado de acordo com o número de moedas coletadas.
 
 <br/>
 <br/>
@@ -254,20 +253,22 @@ Um dos programadores (Diogo) tratou de implementar as alterações necessárias 
 <br/>
 <br/>
 
-<img src="https://github.com/user-attachments/assets/b6eebad6-c08f-4d8d-9680-f204b7fef045" width="500">
+<img src="https://github.com/user-attachments/assets/6c395a4a-6d76-4708-9639-a2276ff05c04" width="500">
 
 <br/>
 <br/>
 
 **O que foi feito após o terceiro sprint do projeto:**
 
- 1º Ganho de pontos ao coletar moedas pelo mapa.
+ 1º Inclusão de um novo tipo de slime.
 
- 2º Refinamento dos scripts e correção de bugs para a entrega final
+ 2º Refinamento dos scripts e correção de bugs para a entrega final.
 
- 3º Atualização do protótipo lo-fi e screencast
+ 3º Atualização do protótipo lo-fi e screencast.
 
- 4º Encontro presencial para discussão do projeto e realização de melhorias no jogo
+ 4º Encontro presencial para discussão do projeto e quais melhorias devem ser realizadas.
+
+ 5º Expansão do mapa, aumento no número de inimigos, e aumento na dificuldade do jogo de acordo com que o jogador avança no mapa.
 
 <br/>
 <br/>
@@ -289,6 +290,15 @@ A imagem acima mostra o encontro realizado por membros da equipe (João Estevam,
 Também foram analizados os scripts (códigos) utilizados no jogo, com o objetivo de análisar se todas as funcionalidades implementadas estão funcionando corretamente e quais mudanças podem ser feitas.
 
 <br/>
+<br/>
+
+[LINK DA VERSÃO FINAL COM AS FUNCIONALIDADES IMPLEMENTADAS](https://drive.usercontent.google.com/download?id=1D6DYCcl-_P1gGoo0ag-hP0oE2IOVv7g6&export=download)
+**(Ao baixar o arquivo zip da versão final, por favor utilize a opção de extrair o arquivo para ter acesso ao arquivo ".exe", iniciando o mesmo como administrador)**
+
+<br/>
+
+[LINK DO TESTE DAS IMPLEMENTAÇÕES CITADAS ACIMA](https://www.youtube.com/watch?v=fnoYdT2oC0Q)
+
 <br/>
 
 ---
