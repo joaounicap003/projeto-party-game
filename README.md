@@ -212,11 +212,15 @@ Primeiras funcionalidades implementadas:
 
 <br/>
 <br/>
-O imagem abaixo mostra a colaboração dos programadores (Diogo Fonseca e João Estevam) criando o script que determina o comportamento da cena* do personagem, permitindo com que o mesmo possa se mover no mapa e interagir com os outros elementos.
-Um dos programadores (Diogo) tratou de implementar as alterações necessárias para conseguir implementar o resultado desejado. Já o outro programador (João Estevam) tratou de realizar pesquisas sobre como resolver os problemas encontrados, como os problemas na falta de colisão do personagem e da mudança de direção do sprite, permitindo com que o trabalho fosse feito de uma forma muito mais rápida e eficiente.
+O imagem abaixo mostra o encontro realizado durante a primeira entrega do projeto. Os programadores (Diogo Fonseca, João Estevam e João Gabriel) criaram o script que determina o comportamento do personagem, permitindo com que o mesmo possa se mover no mapa e interagir com os demais elementos presentes.
+
+<br/>
+
+Nesse encontro foram implementadas as alterações necessárias no script, assim como a resolução dos problemas encontrados, como os problemas na falta de colisão do personagem e da mudança de direção do sprite.
 <br/>
 <br/>
-<img src="https://github.com/user-attachments/assets/d6e7ab17-f9cc-4d23-a5b1-a1b0e8ffe91b" width="400">
+<img src="https://github.com/user-attachments/assets/c443989c-b989-488d-87d7-1c2889683ed3" width="400">
+
 <br/>
 <br/>
 <br/>
