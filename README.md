@@ -163,7 +163,51 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
       <img src="https://github.com/user-attachments/assets/09488d52-6d80-488e-ba3d-d3a4c6bc17c9" width="400">
 
 <br/>
-      
+
+11. **Inclusão de plataformas móveis no mapa**
+
+<br/>
+
+**Digrama de atividades:**
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/38f6b69f-c67c-45c5-bce6-9e8eb3ac62b7" width="400">
+
+
+<br/>
+<br/>
+
+12. **Número de moedas é maior em áreas mais perigosas**
+
+<br/>
+
+**Digrama de atividades:**
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/24fadd35-8d7c-4dd2-bd51-3386f9885178" width="400">
+
+
+<br/>
+<br/>
+
+
+13. **Inclusão decorações de ambiente no mapa**
+
+<br/>
+
+**Digrama de atividades:**
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/69cb6a45-70b4-4535-98fe-7f09638175be" width="400">
+
+
+<br/>
+<br/>
+
+
 ---
 
 <div id="toc">
