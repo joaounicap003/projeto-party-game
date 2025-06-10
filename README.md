@@ -169,6 +169,17 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   </ul>
 </div>
 
+<br/>
+
+**Histórias escolhidas durante o primeiro sprint:**
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/8bb91c48-f34b-4366-86ec-d61932ae9383" width="200">
+
+<br/>
+<br/>
+
 Primeiras funcionalidades implementadas:
 
 
@@ -196,7 +207,7 @@ Primeiras funcionalidades implementadas:
 
 <br/>
 <br/>
-O print abaixo mostra a colaboração dos programadores (Diogo Fonseca e João Estevam) criando o script que determina o comportamento da cena* do personagem, permitindo com que o mesmo possa se mover no mapa e interagir com os outros elementos.
+O imagem abaixo mostra a colaboração dos programadores (Diogo Fonseca e João Estevam) criando o script que determina o comportamento da cena* do personagem, permitindo com que o mesmo possa se mover no mapa e interagir com os outros elementos.
 Um dos programadores (Diogo) tratou de implementar as alterações necessárias para conseguir implementar o resultado desejado. Já o outro programador (João Estevam) tratou de realizar pesquisas sobre como resolver os problemas encontrados, como os problemas na falta de colisão do personagem e da mudança de direção do sprite, permitindo com que o trabalho fosse feito de uma forma muito mais rápida e eficiente.
 <br/>
 <br/>
@@ -208,7 +219,72 @@ Um dos programadores (Diogo) tratou de implementar as alterações necessárias 
 <br/>
 <br/>
 
+**Histórias escolhidas no segundo sprint:**
 
+<br/>
+<br/>
+
+<img src="https://github.com/user-attachments/assets/32deca68-5999-4929-ae27-7f128773fe1e" width="500">
+
+<br/>
+<br/>
+
+**O que foi feito após o segundo sprint do projeto:**
+
+<br/>
+
+1º  O jogo agora conta com um outro tipo de slime nas plataformas.
+
+2º Quanto mais próximo do fim do mapa, maiores serão as dificuldades enfrentadas pelo jogador, seja quanto ao número de inimigos ou aumento de plataformas móveis.
+
+3º Melhorias gerais no mapa.
+
+4º Score do jogo agora se encontra no fim do mapa.
+
+<br/>
+<br/>
+
+**Histórias escolhidas no terceiro sprint:**
+
+<br/>
+<br/>
+
+<img src="https://github.com/user-attachments/assets/b6eebad6-c08f-4d8d-9680-f204b7fef045" width="500">
+
+<br/>
+<br/>
+
+**O que foi feito após o terceiro sprint do projeto:**
+
+ 1º Ganho de pontos ao coletar moedas pelo mapa.
+
+ 2º Refinamento dos scripts e correção de bugs para a entrega final
+
+ 3º Atualização do protótipo lo-fi e screencast
+
+ 4º Encontro presencial para discussão do projeto e realização de melhorias no jogo
+
+<br/>
+<br/>
+
+**Programação em pares durante a sprint final:**
+
+<br/>
+<br/>
+
+<img src="https://github.com/user-attachments/assets/ebe52a8b-3f98-430d-bb89-f13a874d8468" width="500">
+
+<br/>
+<br/>
+
+A imagem acima mostra o encontro realizado por membros da equipe (João Estevam, Pedro Antônio e João Gabriel) para discutir a entrega final e suas devidas implementações. No encontro foi decidido que algumas histórias de usuário não poderiam ser entregues a tempo, o que forçou  o grupo a diminuir o escopo do projeto e realizar as devidas mudanças tanto no protótipo lo-fi quanto no próprio jogo. 
+
+<br/>
+
+Também foram analizados os scripts (códigos) utilizados no jogo, com o objetivo de análisar se todas as funcionalidades implementadas estão funcionando corretamente e quais mudanças podem ser feitas.
+
+<br/>
+<br/>
 
 ---
 
@@ -261,7 +337,7 @@ Um dos programadores (Diogo) tratou de implementar as alterações necessárias 
 <br/>
 <br/>
 
- **Solucionado durante a segunda fase de testes com a inclusão de um sistema de checagem constante do número de vidas. Quando o contador chega a zero, o jogo agora exibe uma tela de fim de jogo e oferece a opção de reiniciar a partida ou voltar ao menu inicial.** ☑️
+ **Bug não foi solucionado a tempo para a entrega final. Com isso, ao ser derrotado por um inimigo, o personagem apenas cairá da plataforma e retornará ao início do mapa.**
 
 <br/>
 
