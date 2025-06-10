@@ -168,6 +168,10 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 
 <br/>
 
+**(Demonstração presente no screencast da versão final do jogo,. disponível abaixo)**
+
+<br/>
+
 **Digrama de atividades:**
 
 <br/>
@@ -179,6 +183,10 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 <br/>
 
 12. **Número de moedas é maior em áreas mais perigosas**
+
+<br/>
+
+**(Demonstração presente no screencast da versão final do jogo,. disponível abaixo)**
 
 <br/>
 
@@ -194,6 +202,10 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 
 
 13. **Inclusão decorações de ambiente no mapa**
+
+<br/>
+
+**(Demonstração presente no screencast da versão final do jogo,. disponível abaixo)**
 
 <br/>
 
