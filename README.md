@@ -31,6 +31,8 @@ O Plataformas da computação busca ensinar a lógica de programação, em seu n
 
 Familiarizar o jogador com a lógica de programação de forma intuitiva e divertida, mesclando o momento de aprendizado com o lazer proporcionado pelos jogos e oferecendo o melhor dos dois mundos.
 
+<br/>
+
 ---
 <div id="toc">
   <ul style="list-style: none">
@@ -40,11 +42,13 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   </ul>
 </div>
 
-- **Histórias de usuário:** Temos 10 histórias bem definidas e claras que guiaram a realização do jogo. Essas histórias podem ser consultadas na sessão abaixo de **Screencast**.
+- **Histórias de usuário:** Temos 10 histórias claras que guiaram a realização do jogo. Essas histórias podem ser consultadas na sessão abaixo de **Screencast**.
   
-- **Protótipo:** Protótipo lo-fi disponível no [Figma](https://www.figma.com/proto/ltoc5FHOWKY3n7102PNz56/Protótipo-Party-Game?node-id=23-10&p=f&t=sLQ5IkCohvWAKww4-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A10&show-proto-sidebar=1) para que possa ser testado de forma interativa.
+- **Protótipo:** Protótipo lo-fi disponível no [Figma](https://www.figma.com/proto/ltoc5FHOWKY3n7102PNz56/Prot%C3%B3tipo-Party-Game?node-id=33-81&p=f&t=6PMPqWDC2jReaZWJ-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=33%3A81&show-proto-sidebar=1) para que possa ser testado de forma interativa.
   
 - **Screencast:** Demonstração das funcionalidades do protótipo, disponível na sessão abaixo.
+
+<br/>
 
 ---
 
@@ -57,6 +61,8 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 </div>
 
 [LINK DO VÍDEO COMPLETO](https://www.youtube.com/watch?v=9R1_5C5We0E)
+
+<br/>
 
 ---
 
@@ -82,18 +88,31 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   
    <img src="https://github.com/user-attachments/assets/97702d94-b6f5-4d39-a9cf-69793ba6f94e" width="400">
 
+   <br/>
+
   
 3. **Gastar pontos obtidos para conseguir vantagens**
-   - Ainda não implementado no protótipo
+   - História não foi escolhida nas sprints/não saiu do backlog do projeto.
+  
+   <br/>
+   
 
-4. **Eventos surpresa no tabuleiro**
+4. **Incluir inimigos no mapa**
    - Ainda não implementado no protótipo
+  
+
+    <img src="https://github.com/user-attachments/assets/edfa955b-f293-46f1-baf7-f61458c125b5" width="400">
+
+  <br/>
+  
 
 5. **Explicar ao jogador a resposta correta do desafio realizado** ✔️
    - [(Timestamp 04:24 - 04:28)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=264s)
    - **Diagrama de atividades:**
      
      <img src="https://github.com/user-attachments/assets/b71523e2-d1fc-4e4a-9d9f-9d5b9030a69f" width="400">
+
+<br/>
 
   
 6. **Minigames que envolvam lógica de programação** ✔️
@@ -102,12 +121,16 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
 
      <img src="https://github.com/user-attachments/assets/e4830caa-735f-47c0-90c1-c41493d29d68" width="400">
 
+<br/>
+
   
 7. **Ganhar recompensas ao completar desafios**
    - Ainda não implementado no protótipo
    - **Diagrama de atividades:**
      
      <img src="https://github.com/user-attachments/assets/e14f1a6d-6ef0-44e3-be4c-9a0cafffa24c" width="400"> 
+
+<br/>
 
   
 8. **Tenha diferentes tipos de inimigos no jogo**
@@ -116,6 +139,8 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   
      <img src="https://github.com/user-attachments/assets/f2305b53-b14f-42e1-981d-7843684caad8" width="400"> 
 
+
+<br/>
 
 9. **Tutorial e objetivo na UI dos minigames** ✔️
    - [(Timestamp 02:05 - 02:30)](https://www.youtube.com/watch?v=9R1_5C5We0E&t=124s)
@@ -131,6 +156,8 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
     - **Diagrama de atividades:**
   
       <img src="https://github.com/user-attachments/assets/09488d52-6d80-488e-ba3d-d3a4c6bc17c9" width="400">
+
+<br/>
       
 ---
 
