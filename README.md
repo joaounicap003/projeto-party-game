@@ -60,7 +60,12 @@ Familiarizar o jogador com a lógica de programação de forma intuitiva e diver
   </ul>
 </div>
 
-[LINK DO VÍDEO COMPLETO](https://www.youtube.com/watch?v=9R1_5C5We0E)
+[LINK DO VÍDEO COMPLETO - Versão inicial do projeto](https://www.youtube.com/watch?v=9R1_5C5We0E)
+
+<br/>
+<br/>
+
+[LINK DO VÍDEO COMPLETO - Versão final do projeto](https://www.youtube.com/watch?v=zA6rcZzN27c)
 
 <br/>
 
