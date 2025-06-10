@@ -301,6 +301,27 @@ Também foram analizados os scripts (códigos) utilizados no jogo, com o objetiv
   </ul>
 </div>
 
+<br/>
+<br/>
+
+**Bugs/Issues resolvidos:**
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/c8f39982-f2c2-4378-b2f0-24fa7cbc0ddf" width="800">
+
+<br/>
+<br/>
+
+**Bugs/Issues não resolvidos:**
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/0dd0ed0f-e4e7-4357-9fb2-7a52e56163e5" width="800">
+
+<br/>
+<br/>
+
 1 - **Personagem não estava colidindo com os outros objetos do mapa**: Esse erro ocasionava na queda do personagem, impedindo que o jogador conseguisse fazer qualquer ação no jogo.
 
 <br/>
@@ -344,6 +365,7 @@ Também foram analizados os scripts (códigos) utilizados no jogo, com o objetiv
 
  **Bug não foi solucionado a tempo para a entrega final. Com isso, ao ser derrotado por um inimigo, o personagem apenas cairá da plataforma e retornará ao início do mapa.**
 
+<br/>
 <br/>
 
 <div id="toc">
